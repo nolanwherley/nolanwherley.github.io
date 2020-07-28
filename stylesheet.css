@@ -1,9 +1,5 @@
 body {
-    overflow: hidden;
-    background-image: url(../background.png);
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
+    background-color: #f0f5f2;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -16,7 +12,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 400px;
+    width: 475px;
 }
 iframe {
     display: block;
