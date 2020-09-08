@@ -4,7 +4,7 @@ body {
     background-attachment: fixed;
 }
 #header {
-    width: 60%;
+    width: 35%;
     margin: auto;
 }
 #logo img {
@@ -12,7 +12,6 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 475px;
 }
 iframe {
     padding: 25px 0px 0px 0px;
@@ -20,14 +19,12 @@ iframe {
     margin-left: auto;
     margin-right: auto;
 }
-#space {
-    padding: 15px;
-}
 #footer {
     display: flex;
-    justify-content: center;
+    justify-content: center
 }
 #footer img {
-    width: 40px;
-    padding: 10px 20px 10px 20px;
+    width: 45px;
+    height: 45px;
+    padding: 25px
 }
